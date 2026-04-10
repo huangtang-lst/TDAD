@@ -76,8 +76,9 @@ claudecode_n_codex_swebench/results/
 # OS
 Thumbs.db
 
-# Nested repos (separate git remotes)
-tdad-skill/
+# Nested repos (separate git remotes) 
+# added as submodule.
+# tdad-skill/
 
 # AI agent working directories
 .agent/
